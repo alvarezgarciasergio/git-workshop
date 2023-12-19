@@ -1,4 +1,6 @@
 # git-workshop
 
 
-this is project to work GIT
+this is a project to work GIT
+
+Developed by Sergio García
